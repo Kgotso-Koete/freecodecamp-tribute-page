@@ -1,6 +1,7 @@
 # freecodecamp-tribute-page
 FreeCodeCamp Responsive Web Design Projects - Build a Tribute Page
 
+# you can view my web design for this project here: https://kgotso-koete.github.io/freecodecamp-tribute-page/
 
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNqgVx.
 
